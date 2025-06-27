@@ -6,7 +6,7 @@ How to Run
 
 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/kavyasunder/spam-email-classifier.git
 cd spam-email-classifier
 pip install -r requirements.txt
