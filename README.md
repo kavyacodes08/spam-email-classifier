@@ -4,7 +4,7 @@ A clean Streamlit web app that uses a machine learning model (Naive Bayes + TF-I
 
 How to Run
 
-1. Try it online 
+1. Try it online ( download the sample csv file for testing)
 [Click here to try the Spam Email Classifier](https://spam-email-classifier-m27x3axqif7ahg6pck8hzp.streamlit.app/)
 2. Clone the Repository
 git clone (https://github.com/kavyacodes08/spam-email-classifier)
